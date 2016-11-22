@@ -1,0 +1,1 @@
+# ss-editor-email-templates
