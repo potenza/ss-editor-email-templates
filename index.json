@@ -1,0 +1,131 @@
+{
+  "sections": [
+    {
+      "columns": [
+        {
+          "items": [
+            {
+              "type": "ss-legacy-text",
+              "content": "Preview header text goes here. <a href=\"{{{browse}}}\">View this email online.</a>",
+              "stylesheet": {
+                "font-size": "12px",
+                "text-align": "center"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "columns": [
+        {
+          "items": [
+            {
+              "type": "ss-legacy-text",
+              "content": "Build and Design Your Email",
+              "stylesheet": {
+                "font-size": "32px",
+                "widget": {
+                  "padding-bottom": "0px"
+                }
+              }
+            },
+            {
+              "type": "ss-legacy-text",
+              "content": "Drag and drop pieces of content to build the structure of your email. Choose from useful content: text, button, image, and more! Customize colors, size and spacing, and duplicate content to quickly create your email."
+            },
+            {
+              "type": "ss-button",
+              "attributes": {
+                "text": "Learn more"
+              }
+            }
+          ]
+        }
+      ],
+      "stylesheet": {
+        "padding-top": "20px",
+        "padding-bottom": "20px",
+        "padding-right": "20px",
+        "padding-left": "20px"
+      }
+    },
+    {
+      "columns": [
+        {
+          "items": [
+            {
+              "type": "ss-legacy-text",
+              "content": "Change Your Email's Appearance",
+              "stylesheet": {
+                "font-size": "18px",
+                "font-weight": "bold",
+                "widget": {
+                  "padding-bottom": "0px"
+                }
+              }
+            },
+            {
+              "type": "ss-legacy-text",
+              "content": "Change global styles such as the email's background, foreground, body text and linked text. These are located under \"Email\" to the left.",
+              "stylesheet": {
+                "widget": {
+                  "padding-top": "0px"
+                }
+              }
+            },
+            {
+              "type": "ss-legacy-text",
+              "content": "Save, Preview and Test",
+              "stylesheet": {
+                "font-size": "18px",
+                "font-weight": "bold",
+                "widget": {
+                  "padding-bottom": "0px"
+                }
+              }
+            },
+            {
+              "type": "ss-legacy-text",
+              "content": "Save your email to store your edits. Preview your email and send a test email to see how your email appears on desktop or mobile.",
+              "stylesheet": {
+                "widget": {
+                  "padding-top": "0px"
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "stylesheet": {
+        "padding-top": "20px",
+        "padding-bottom": "20px",
+        "padding-right": "20px",
+        "padding-left": "20px"
+      }
+    },
+    {
+      "columns": [
+        {
+          "items": [
+            {
+              "type": "ss-legacy-text",
+              "content": "<div>Company Name</div><div>1234 Capitol Street, Sacramento, CA 12345 USA</div><div>+1 (000) 000-0000 | company@email.com | www.yourwebsite.com</div><div><a href=\"{{{share}}}\">Share this email</a> | <a href=\"{{{unsubscribe}}}\">Unsubscribe or Edit Profile</a></div>",
+              "stylesheet": {
+                "font-size": "12px",
+                "text-align": "center"
+              }
+            }
+          ]
+        }
+      ],
+      "stylesheet": {
+        "background-color": "#F9F9F9",
+        "padding-top": "40px",
+        "padding-bottom": "20px",
+        "padding-right": "0px",
+        "padding-left": "0px"
+      }
+    }
+  ]
+}
