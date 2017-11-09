@@ -1,12 +1,13 @@
 # ss-editor-email-templates
 When editing:
-1. make sure you change the version number in the form of: 
 
+1. make sure you change the version number in the form of: 
 ```
-...
-<body>
-<!-- build your own template v1.1 -->
-...
+------------------------------------- */
+/* Name: Default "Build Your Own" Email Template
+/* Starting Columns: One
+/* Version: 2.2
+------------------------------------- */
 ```
 
 2. Create a release with the version.
